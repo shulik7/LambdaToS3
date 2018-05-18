@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LambdaToS3": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\Projects\\LambdaToS3\\LambdaToS3"
+    }
+  }
+}
